@@ -1,26 +1,27 @@
-#### RAMAN SHAUTSOU
+## RAMAN SHAUTSOU
 **Contcacts:**
-**Location:** Gomel, Belarus
+
+**Location:** Lyuban, Belarus
+
 **Phone:** +375259012211
+
 **e-mail:** shevtcovroman@gmail.com
+
 **Telegram:** @RBebra
+
 **Nickname on the discord server rs school:** rbebra
+
 About Me:
-
-I have no experience in programming, but I came to you to learn. I want to take your course and understand for myself how everything works in order to choose the right direction.
-Skills:
-
-There is not.
-Code example:
-
-function multiply(a, b) {
-  return a * b
-}
-
-Experience:
+I have manu experience in programming, but I dont wanna show him
 
 
-[CV]()
-Education:
+```javascript
+const func = (num) => {
+  if (num > 0) {
+    return num - 1;
+  }
+  return num + 1;
+};
+```
 
-There is not.
+[Curriculum vitae](https://RBebra.github.io/rsschool-cv/cv)
