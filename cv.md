@@ -28,4 +28,5 @@ const func = (num) => {
 
 
 
+
 [Curriculum vitae](https://RBebra.github.io/rsschool-cv/cv)
